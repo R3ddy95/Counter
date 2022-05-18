@@ -1,4 +1,4 @@
-<p align="center"><a href="https://r3ddy95.github.io/counter/"><img src="..." width="400"></a></p>
+<p align="center"><a href="https://r3ddy95.github.io/counter/"><img src="assets/images/counter.png" width="400"></a></p>
 
 # Javascript Basic Project
 
